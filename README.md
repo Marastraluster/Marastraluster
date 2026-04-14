@@ -10,7 +10,7 @@
 
 <p align="left">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=53D1F1&width=800&lines=Astral+Star+Make+Intelligence%2C+Embodied+Intelligence+make+future+better." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=53D1F1&width=700&lines=Astral+Star+Make+Intelligence%2C+Embodied+Intelligence+make+future+better." alt="Typing SVG" />
   </a>
 </p>
 
