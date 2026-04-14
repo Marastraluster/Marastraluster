@@ -41,9 +41,11 @@
 ---
 
 ### 📊 My GitHub Journey
+
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marastraluster&show_icons=true&theme=transparent&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marastraluster&layout=compact&theme=transparent" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marastraluster&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marastraluster&layout=compact&theme=radical&hide_border=true" />
 </p>
 
 ---
