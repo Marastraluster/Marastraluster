@@ -53,7 +53,7 @@
 ### 💻 Setup & Environment
 * **Editor:** Neovim (LazyVim) - *Vibe Coding Advocate*
 * **OS:** Windows 11 + WSL2 (Ubuntu 22.04)
-* **Organization:** Hangzhou Electronic University (HDU) - Excellence College
+* **Organization:** Hangzhou Dianzi University (HDU) - Excellence College
 
 ---
 
